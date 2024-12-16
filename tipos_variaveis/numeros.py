@@ -22,7 +22,7 @@ print("1 - 1 = ", subtracao)
 multiplicacao = 2 * 2
 print("2 * 2 = ", multiplicacao)
 
-# divisao / 
+# divisão / 
 divisao = 5 / 2
 print("5 / 2 = ", divisao)
 print("Tipo da variável do resultado da divisão", type(divisao))
@@ -34,11 +34,11 @@ print("Valor em inteiro = ", conversao_divisao, type(conversao_divisao))
 # float()
 print("Valor em número real = ", float(divisao))
 
-# Modulo %, é o restante da divisão, é oq fica sobrando da divisão 
+# Módulo %, é o restante da divisão, é oq fica sobrando da divisão 
 modulo = 7 % 3
 print("Modulo = ", modulo)
 
-# divisao inteira // 
+# divisão inteira //, nos retorna um número inteiro
 divisao_inteira = 5 // 2
 print("5 // 2 = ", divisao_inteira)
 print("Tipo da variável do resultado da divisão", type(divisao_inteira))
