@@ -48,3 +48,14 @@ insert();
 pop();
 remove();
 sort();
+
+dia 20/12
+https://www.notion.so/Python-dia-20-12-162bc5c3824d804b9a05ebba28fea416
+Tupla;
+São imutáveis, podendo usar métodos simples de texto, como por exemplo: del, keys, values e items 
+Condicionais;
+Se a condicional for tomada como verdadeira, o bloco será executado.
+Loop; 
+É uma estrutura que nos permite repetir um bloco de código enquanto a condição for verdadeira. 
+Falamos de for e while, e como um é diferente do outro em questões de aplicabilidade, falamos também de funções e métodos  que podem trabalhar em conjunto do for/while: range(), enumerate(), len().
+Em while, precisamos sempre de um contador, para que tenha uma forma de incrementar e decrementar. Sempre sem cair em looping.
