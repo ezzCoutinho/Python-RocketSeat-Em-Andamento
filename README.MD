@@ -28,3 +28,23 @@ Rstrip remove o caractere do lado direito de uma string(se assim eles existirem 
 Startswith retorna boolean se a ocorrência começar ou não com a string;
 in se a ocorrência esta, retorna valor booleano;
 not in se não esta, retorna valor booleano;
+
+dia 19/12
+https://www.notion.so/Python-dia-19-12-161bc5c3824d8093bc6dd749e44121da
+Booleanos:
+-true;
+-false;
+Condicionais:
+-if;
+-else;
+Avaliação de curto-circuito:
+-and;
+-or;
+Listas (Array) e seus métodos:
+Slice[];
+append();
+index();
+insert();
+pop();
+remove();
+sort();
