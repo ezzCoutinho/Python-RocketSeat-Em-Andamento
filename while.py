@@ -4,6 +4,8 @@ while contador <  5:
   print("Contagem:", contador)
   contador += 1 
 
+contador = 0
+
 while True:
   print("Contagem:", contador)
   contador += 1
