@@ -1,2 +1,1 @@
-
-print("---CHAVES E VALORES---")
+lista[indice])
