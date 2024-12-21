@@ -1,5 +1,5 @@
 while True:
-  print("\n Menu de Gerenciador de Lista de Tarefas:")
+  print("\n Menu de Gerenciador da Lista de Tarefas:")
   print("1. Adicionar Tarefas")
   print("2. Ver Tarefas")
   print("3. Atualizar Tarefas")
